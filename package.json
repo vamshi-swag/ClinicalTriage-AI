@@ -1,0 +1,19 @@
+{
+  "name": "clinical-triage-ai",
+  "version": "1.0.0",
+  "description": "Clinical Triage AI Assistant hybrid RAG + fine-tuned LLM system",
+  "main": "app.py",
+  "scripts": {
+    "start": "streamlit run app.py"
+  },
+  "keywords": [
+    "clinical",
+    "triage",
+    "ai",
+    "rag",
+    "unsloth",
+    "streamlit"
+  ],
+  "author": "",
+  "license": "ISC"
+}
